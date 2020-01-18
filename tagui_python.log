@@ -1,0 +1,28 @@
+
+START - automation started - Sat Jan 18 2020 14:34:44 GMT+0800 (Malay Peninsula Standard Time)
+
+LIVE MODE - type done to quit
+ [TAGUI][STARTED]
+[TAGUI][0] - listening for inputs
+[TAGUI][1] - https://google.com
+[TAGUI][1] - listening for inputs
+[TAGUI][2] - exist_result = exist('//input[@name="q"]').toString()
+[TAGUI][2] - listening for inputs
+[TAGUI][3] - dump exist_result to tagui_python.txt
+[TAGUI][3] - listening for inputs
+[TAGUI][4] - type //input[@name="q"] as weather[enter]
+[TAGUI][4] - listening for inputs
+[TAGUI][5] - exist_result = exist('//input[@name="q"]').toString()
+[TAGUI][5] - listening for inputs
+[TAGUI][6] - dump exist_result to tagui_python.txt
+[TAGUI][6] - listening for inputs
+[TAGUI][7] - type //input[@name="q"] as [clear]
+[TAGUI][7] - listening for inputs
+[TAGUI][8] - exist_result = exist('//span[@id="wob_pp"]').toString()
+[TAGUI][8] - listening for inputs
+[TAGUI][9] - dump exist_result to tagui_python.txt
+[TAGUI][9] - listening for inputs
+[TAGUI][10] - read //span[@id="wob_pp"] to read_result
+[TAGUI][10] - listening for inputs
+[TAGUI][11] - dump read_result to tagui_python.txt
+[TAGUI][11] - listening for inputs
